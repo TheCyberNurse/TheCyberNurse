@@ -1,6 +1,6 @@
 # Hi, I'm TheCyberNurse 👋🏽
 
-### Cybersecurity Learner | SOC Analyst in Training | Healthcare Cybersecurity
+### Cybersecurity-Trained |SOC Analyst in Training | Ethical Hacking |Network Security | Healthcare Cybersecurity 
 
 I'm a healthcare professional transitioning into cybersecurity, with a growing interest in Security Operations (SOC), ethical hacking, network security, and protecting healthcare systems and patient information.
 
